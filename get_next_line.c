@@ -6,11 +6,11 @@
 /*   By: cjang <cjang@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/04 22:06:05 by cjang             #+#    #+#             */
-/*   Updated: 2021/11/24 14:26:26 by cjang            ###   ########.fr       */
+/*   Updated: 2021/11/25 12:01:39 by cjang            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "get_next_linex.h"
 
 static int	tok_line(char *s, char **next)
 {
